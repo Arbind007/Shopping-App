@@ -21,6 +21,9 @@ The wep app is made using the React framework. The Redux is responsible for stor
 #### CheckOut Page
 <img width="1440" alt="Screenshot 2021-09-07 at 4 05 36 PM" src="https://user-images.githubusercontent.com/56961555/132330818-4e9da672-945c-4c59-ab85-ea53e4233e4b.png">
 
+
+### Crafted By 
+
 <table>
 <tr align="center">
 <td>
