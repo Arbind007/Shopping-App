@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The wep app is made using the React framework. The Redux is responsible for storing the state of the the varios items and Saga is used to to make the frontend react to the changes according the values in the store. 
+The Shopping App consists of 3 pages the home pages list out all the products, so the user can select the product he/she want's to buy. After adding it to cart, he can revise his order, he/she may either add subtract or even selete the item from the cart. After this he/she may proceed to checkout where he/she may add the necessary details and place the order.It is made using the React framework. The Redux is responsible for storing the state of the the varios items and Saga is used to to make the frontend react to the changes according the values in the store. 
 
 ### Technology we will be using: 
 
