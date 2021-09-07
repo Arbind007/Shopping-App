@@ -1,1 +1,25 @@
 ## Live at :- https://thegreatshoestore.netlify.app/
+
+### Introduction
+
+The wep app is made using the React framework. The Redux is responsible for storing the state of the the varios items and Saga is used to to make the frontend react to the changes according the values in the store. 
+
+### Technology we will be using: 
+
+- [x]  React.js  
+- [x]  Redux-Saga
+- [x]  BootStrap
+
+### Previe of the Web App
+
+#### Home Page
+<img width="1440" alt="Screenshot 2021-09-07 at 3 58 51 PM" src="https://user-images.githubusercontent.com/56961555/132330508-668938f9-d6dc-4771-99e1-e250f623c5ae.png">
+
+#### Cart Page
+<img width="1440" alt="Screenshot 2021-09-07 at 4 03 40 PM" src="https://user-images.githubusercontent.com/56961555/132330594-f8f1c0ef-405f-4591-9b94-5c06ca10d7bc.png">
+
+#### CheckOut Page
+<img width="1440" alt="Screenshot 2021-09-07 at 4 05 36 PM" src="https://user-images.githubusercontent.com/56961555/132330818-4e9da672-945c-4c59-ab85-ea53e4233e4b.png">
+
+
+
