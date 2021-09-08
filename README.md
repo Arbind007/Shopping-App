@@ -10,7 +10,7 @@ The Shopping App consists of 3 pages the home pages list out all the products, s
 - [x]  Redux-Saga
 - [x]  BootStrap
 
-### Previe of the Web App
+### Preview of the Web App
 
 #### Home Page
 <img width="1440" alt="Screenshot 2021-09-07 at 3 58 51 PM" src="https://user-images.githubusercontent.com/56961555/132330508-668938f9-d6dc-4771-99e1-e250f623c5ae.png">
